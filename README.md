@@ -2,15 +2,15 @@
 
 This project is a pixel-perfect frontend website developed for the Theemwiz Web Technologies Technical Round.
 
---
+
 
 ## 🚀 Technologies Used
-- **HTML5**
-- **CSS3**
-- **Bootstrap 5** (Recommended framework)
+- **HTML**
+- **CSS**
+- **Bootstrap** (Recommended framework)
 - **Responsive Design** (Optional but implemented)
 
---
+
 
 ## 🌟 Features
 - 100% pixel-perfect layout based on the Figma design provided
@@ -20,7 +20,7 @@ This project is a pixel-perfect frontend website developed for the Theemwiz Web 
 - Well-commented and organized codebase for easy understanding
 
 
---
+
 
 ## 📥 How to Run Locally
 1. Clone the repository:
