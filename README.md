@@ -3,8 +3,8 @@
 ## 🚀 Technologies Used
 - **HTML**
 - **CSS**
-- **Bootstrap** (Recommended framework)
-- **Responsive Design** (Optional but implemented)
+- **Bootstrap** 
+- **Responsive Design**
 
 
 
