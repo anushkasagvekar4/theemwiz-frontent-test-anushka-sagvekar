@@ -1,7 +1,3 @@
-# 🌟 Theemwiz Frontend Web Dev Technical Test
-
-This project is a pixel-perfect frontend website developed for the Theemwiz Web Technologies Technical Round.
-
 
 
 ## 🚀 Technologies Used
